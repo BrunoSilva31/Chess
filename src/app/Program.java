@@ -1,7 +1,5 @@
 package src.app;
 
-import src.Board.Board;
-import src.Board.Position;
 import src.chess.ChessMatch;
 
 public class Program {
